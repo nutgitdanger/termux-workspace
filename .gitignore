@@ -3,6 +3,9 @@ storage/
 downloads/
 backups/
 archive/
-*.log
+
 __pycache__/
+
+*.log
 .env
+.DS_Store
